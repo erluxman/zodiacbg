@@ -31,7 +31,7 @@ public class ZodiacBGView extends FrameLayout implements ZodiacBGPresenter {
 
     @Override
     public void setZodiacSignVisibility(boolean visibility) {
-        Utils.setVisibility(zodiacSign, visibility);
+        Utils.Companion.setVisibility(zodiacSign, visibility);
     }
 
     @Override
