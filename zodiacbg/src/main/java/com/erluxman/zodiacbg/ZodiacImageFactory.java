@@ -36,7 +36,7 @@ public class ZodiacImageFactory {
      */
     @DrawableRes
     private int getIconInt ( int zodiacNumber, Context c ) {
-        String name = "zod" +Integer.toString(zodiacNumber);
+        String name = "zod_" +Integer.toString(zodiacNumber);
         return c.getResources ().getIdentifier ( name, "drawable", c.getPackageName () );
     }
     /**
@@ -46,7 +46,7 @@ public class ZodiacImageFactory {
      */
     @DrawableRes
     public int getZodiacSignWithConstellation(int zodiacNumber){
-        return getIconInt(zodiacNumber,this.context);
+        return getIconIntWithConstellation(zodiacNumber,this.context);
     }
 
 
@@ -58,7 +58,7 @@ public class ZodiacImageFactory {
      */
     @DrawableRes
     private int getIconIntWithConstellation ( int zodiacNumber, Context c ) {
-        String name = "zod" +Integer.toString(zodiacNumber);
+        String name = "cons" +Integer.toString(zodiacNumber);
         return c.getResources ().getIdentifier ( name, "drawable", c.getPackageName () );
     }
 }
