@@ -1,4 +1,4 @@
-package com.erluxman.adventure.zodiacbgexample
+package com.erluxman.zodiacbgexample
 
 import org.junit.Test
 

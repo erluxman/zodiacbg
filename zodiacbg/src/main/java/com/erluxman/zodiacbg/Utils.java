@@ -1,4 +1,4 @@
-package com.example.zodiacbg;
+package com.erluxman.zodiacbg;
 
 import android.view.View;
 
@@ -10,7 +10,7 @@ import android.view.View;
  */
 
 public class Utils {
-    public static void setVisibilty(View v , boolean visible){
+    public static void setVisibility(View v , boolean visible){
         if(visible)v.setVisibility(View.VISIBLE);else v.setVisibility(View.GONE);
     }
 }

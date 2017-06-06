@@ -1,12 +1,14 @@
-package com.erluxman.adventure.zodiacbgexample
+package com.erluxman.zodiacbgexample
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import com.example.zodiacbg.RashiBGView
 
-class Main : AppCompatActivity() {
+private class Main : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        val v: RashiBGView = findViewById(R.id.background) as RashiBGView
     }
 }

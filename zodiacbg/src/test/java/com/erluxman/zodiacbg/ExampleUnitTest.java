@@ -1,4 +1,4 @@
-package com.example.zodiacbg;
+package com.erluxman.zodiacbg;
 
 import org.junit.Test;
 
