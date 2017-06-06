@@ -30,6 +30,6 @@ dependencies {
     implementation 'com.android.support:appcompat-v7:25.3.1'
     testImplementation 'junit:junit:4.12'
     implementation 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile 'com.github.erluxman:zodiacbg:v0.002'
+    compile 'com.github.erluxman:zodiacbg:0.003'
 
 }
