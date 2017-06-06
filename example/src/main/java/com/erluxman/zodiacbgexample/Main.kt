@@ -1,4 +1,4 @@
-package com.example.adventure.zodiacbgexample
+package com.erluxman.adventure.zodiacbgexample
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity

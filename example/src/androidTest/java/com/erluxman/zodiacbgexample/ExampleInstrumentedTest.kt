@@ -1,4 +1,4 @@
-package com.example.adventure.zodiacbgexample
+package com.erluxman.adventure.zodiacbgexample
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
