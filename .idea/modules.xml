@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ZodiacBG.iml" filepath="$PROJECT_DIR$/ZodiacBG.iml" />
       <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zodiacbg.iml" filepath="$PROJECT_DIR$/zodiacbg.iml" />
       <module fileurl="file://$PROJECT_DIR$/zodiacbg/zodiacbg.iml" filepath="$PROJECT_DIR$/zodiacbg/zodiacbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zodiacbg/zodiacbg-zodiacbg.iml" filepath="$PROJECT_DIR$/zodiacbg/zodiacbg-zodiacbg.iml" />
     </modules>
   </component>
 </project>
